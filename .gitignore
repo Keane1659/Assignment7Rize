@@ -48,4 +48,4 @@ logs/
 
 # Temporary files
 *.tmp
-*.temp
+*.tempbackend/coverage/
