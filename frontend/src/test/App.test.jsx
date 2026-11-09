@@ -124,9 +124,3 @@ describe('Recipe Sharing App - API Integration', () => {
     expect(result[0].title).toBe('Test Recipe')
   })
 })
-
-describe('CI/CD Pipeline Failure Test', () => {
-  it('intentionally fails to demonstrate pipeline protection', () => {
-    expect(true).toBe(false)
-  })
-})
